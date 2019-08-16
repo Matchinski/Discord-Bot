@@ -1,7 +1,7 @@
 //Setting up the bot
 const discord = require('discord.js');
 const bot = new discord.Client();
-const token = 'NjA2NTgzMzIzNzk5NTg0Nzkz.XVYC5A.rqxknehOnZVltts1r3yDRlFUSt8';
+const token = 'NjA2NTgzMzIzNzk5NTg0Nzkz.XVYEvQ.yZDSI6fGeUlaoNDnmzQfIwSEp9o';
 bot.login(token);
 
 //What triggers commands
