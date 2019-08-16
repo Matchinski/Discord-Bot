@@ -1,3 +1,4 @@
+//Mason Matchinski
 //Setting up the bot
 const discord = require('discord.js');
 const bot = new discord.Client();
